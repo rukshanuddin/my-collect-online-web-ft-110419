@@ -6,5 +6,5 @@ def my_collect(array) # put argument(s) here
       ary << array[i]
       i = i + 1
     end
-
+    ary
 end
